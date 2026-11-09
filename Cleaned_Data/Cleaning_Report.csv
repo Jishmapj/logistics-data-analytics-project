@@ -1,0 +1,6 @@
+File,Original Rows,Final Rows,Duplicates Removed,Missing Values Before,Missing Values After
+inventory.csv,300,300,0,0,0
+order items.csv,900,900,0,0,0
+Orders (2).csv,900,899,1,37,39
+products (1).csv,12,12,0,4,4
+shipping table.csv,3507,3481,26,1,2
