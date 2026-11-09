@@ -32,6 +32,16 @@ The objective is to transform raw operational data into meaningful insights that
 ```text
 Logistics-Data-Analytics-Project/
 │
+├─Logistics-Data-Analytics-Project/
+│
+├── Phase1-Strategic Planning and Data Exploration in Logistics/
+│   ├── inventory_cleaned.csv
+│   ├── order items_cleaned.csv
+│   ├── Orders (2)_cleaned.csv
+│   ├── products (1)_cleaned.csv
+│   ├── shipping table_cleaned.csv
+│   └── Week_1_Strategic_Planning_Report.docx
+│
 ├── Raw_data/
 │   ├── inventory.csv
 │   ├── order items.csv
@@ -40,18 +50,13 @@ Logistics-Data-Analytics-Project/
 │   └── shipping table.csv
 │
 ├── Cleaned_Data/
-│   ├── Phase1/
 │   ├── Cleaning_Report.csv
-│   ├── README.md
-│   ├── Week_1_Strategic_Planning_Report.docx
-│   ├── Week_1_Strategic_Planning_Report.md
-│   ├── week_1_data_exploration.py
-│   ├── carrier_transit_cost_analysis.png
-│   ├── order_value_distribution.png
-│   └── warehouse_inventory_status.png
+│   ├── Python scripts
+│   ├── Visualizations
+│   └── Analysis reports
 │
 ├── Logistics_Data_Cleaning.ipynb
-│
+├── README.md
 └── .gitignore
 ```
 
