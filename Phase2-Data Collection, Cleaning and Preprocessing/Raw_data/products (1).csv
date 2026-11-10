@@ -1,0 +1,13 @@
+product_id,product_name,product_category,manufacturing_city,size,colour,sku,weight_kg,cost_to_manufacture,release_date
+1012456,UltraSound Wireless Earbuds,Electronics,Shenzhen,One Size,Black,4829102745,0.12,18.5,2023-02-14
+1012457,SmartHome LED Bulb,Electronics,Guangzhou,One Size,White,4829102746,0.18,6.2,2022-11-03
+1012458,4K Action Camera,Electronics,Seoul,One Size,Black,4829102747,0.25,42,2023-06-21
+1012459,Portable Bluetooth Speaker,Electronics,Hanoi,One Size,Blue,4829102748,0.35,15.75,2023-01-10
+1012460,NoiseCancel Pro Headphones,Electronics,Tokyo,One Size,Silver,4829102749,0.28,33.4,2024-03-18
+1012461,Men's Performance Hoodie,Apparel,Los Angeles,L,Gray,4829102750,0.45,12.1,2023-09-12
+1012462,Women's Running Shoes,Apparel,Portland,8,Black,4829102751,0.6,22,2023-04-05
+1012463,Classic Cotton T-Shirt,Apparel,Chicago,M,White,4829102752,0.2,4.8,2022-08-19
+1012464,Stainless Steel Water Bottle,Outdoors,Denver,1L,Blue,4829102753,0.5,5.6,2023-05-22
+1012465,Camping Lantern Pro,Outdoors,Calgary,One Size,Green,4829102754,0.7,9.9,2023-07-30
+1012466,Premium Scented Candle,Home Goods,Toronto,Medium,White,4829102755,0.4,3.1,2022-12-01
+1012467,Memory Foam Pillow,Home Goods,Montreal,Standard,White,,,,

@@ -1,0 +1,5 @@
+table,original_rows,final_rows,exact_duplicates_removed,missing_values_before,missing_values_after,duplicate_primary_key_rows,missing_primary_keys,date_format_issues
+Order_Items,900,900,0,0,0,0,0,0
+Shipping,3507,3481,26,1,1,0,0,0
+Products,12,12,0,4,4,0,0,0
+Inventory,300,300,0,0,0,0,0,0

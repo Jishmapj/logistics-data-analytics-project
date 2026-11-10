@@ -1,0 +1,27 @@
+source_table,shipping_id,order_id,carrier,shipping_method,warehouse_location,ship_date,delivery_date,shipping_cost,delivery_status
+Shipping,8001001,70016001,Canada Post,Standard,Edmonton-AB,2024-04-25,2024-05-02,9.99,Delivered
+Shipping,8001002,70016002,UPS,Expedited,Calgary-AB,2024-04-26,2024-04-29,14.99,Delivered
+Shipping,8001003,70016003,FedEx,Standard,Vancouver-BC,2024-04-23,2024-05-01,11.99,Delivered
+Shipping,8001004,70016004,Purolator,Express,Toronto-ON,2024-04-27,2024-04-29,19.99,Delivered
+Shipping,8001005,70016005,DHL,Standard,Chicago-IL,2024-04-24,2024-05-03,12.99,Delivered
+Shipping,8001006,70016006,Canada Post,Standard,Edmonton-AB,2024-04-28,2024-05-05,9.99,Delivered
+Shipping,8001007,70016007,UPS,Expedited,Calgary-AB,2024-04-29,2024-05-02,14.99,Delivered
+Shipping,8001008,70016008,FedEx,Standard,Vancouver-BC,2024-04-26,2024-05-04,11.99,Delivered
+Shipping,8001009,70016009,Purolator,Express,Toronto-ON,2024-04-30,2024-05-02,19.99,Delivered
+Shipping,8001010,70016010,DHL,Standard,Chicago-IL,2024-04-27,2024-05-06,12.99,Delivered
+Shipping,8001011,70016011,Canada Post,Standard,Edmonton-AB,2024-05-01,2024-05-08,9.99,Delivered
+Shipping,8001012,70016012,UPS,Expedited,Calgary-AB,2024-05-02,2024-05-05,14.99,Delivered
+Shipping,8001013,70016013,FedEx,Standard,Vancouver-BC,2024-04-29,2024-05-07,11.99,Delivered
+Shipping,8001014,70016014,Purolator,Express,Toronto-ON,2024-05-03,2024-05-05,19.99,Delivered
+Shipping,8001015,70016015,DHL,Standard,Chicago-IL,2024-04-30,2024-05-09,12.99,Delivered
+Shipping,8001016,70016016,Canada Post,Standard,Edmonton-AB,2024-05-04,2024-05-11,9.99,Delivered
+Shipping,8001017,70016017,UPS,Expedited,Calgary-AB,2024-05-05,2024-05-08,14.99,Delivered
+Shipping,8001018,70016018,FedEx,Standard,Vancouver-BC,2024-05-02,2024-05-10,11.99,Delivered
+Shipping,8001019,70016019,Purolator,Express,Toronto-ON,2024-05-06,2024-05-08,19.99,Delivered
+Shipping,8001020,70016020,DHL,Standard,Chicago-IL,2024-05-03,2024-05-12,12.99,Delivered
+Shipping,8002205,70017205,DHL,Standard,Chicago-IL,2025-04-04,2025-04-13,12.99,Delivered
+Shipping,8002246,70017246,Canada Post,Standard,Edmonton-AB,2025-05-02,2025-05-09,9.99,Delivered
+Shipping,8002247,70017247,UPS,Expedited,Calgary-AB,2025-05-03,2025-05-06,14.99,Delivered
+Shipping,8002248,70017248,FedEx,Standard,Vancouver-BC,2025-04-30,2025-05-08,11.99,Delivered
+Shipping,8002249,70017249,Purolator,Express,Toronto-ON,2025-05-04,2025-05-06,19.99,Delivered
+Shipping,8002250,70017250,DHL,Standard,Chicago-IL,2025-05-01,2025-05-10,12.99,Delivered

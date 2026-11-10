@@ -1,0 +1,5 @@
+table,column,unmatched_records
+Order_Items,order_id,656
+Order_Items,product_id,900
+Shipping,order_id,3371
+Inventory,product_id,300

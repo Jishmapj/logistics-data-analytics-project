@@ -1,0 +1,5 @@
+table,primary_key,duplicate_key_rows,missing_key_values
+Order_Items,order_item_id,0,0
+Shipping,shipping_id,0,0
+Products,product_id,0,0
+Inventory,inventory_id,0,0
